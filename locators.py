@@ -1,0 +1,7 @@
+NAV_BUTTON = "ul.all-categories-dropdown a"
+LIST_OF_CATEGORIES = "#list-tab > a"
+PRODUCT_TITLE = ".product-card-title"
+SEE_ALL_BUTTON = "#category-filter span:has-text('See All')"
+SUBCATEGORIES = "#category-filter div.custom-checkbox label"
+CLEAR_BUTTON = "a:has-text('Clear all filters')"
+NEXT_PAGE_BUTTON = "li.page-next > a"
